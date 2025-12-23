@@ -1,0 +1,168 @@
+{
+  "version": 1,
+  "base_track": "Stereo Hearts",
+  "base_artist": "Gym Class Heroes",
+  "createdAt": "2025-12-23T08:21:18.886627Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Stereo Hearts - Live In Manchester",
+      "artist": "Maroon 5",
+      "has_synced": false,
+      "path": "select/01_Stereo_Hearts_-_Live_In_Manchester_Maroon_5.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Stereo Hearts (live in Manchester)",
+      "artist": "Maroon 5",
+      "has_synced": true,
+      "path": "select/02_Stereo_Hearts_(live_in_Manchester)_Maroon_5.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Stereo Hearts (feat. Adam Levine)",
+      "artist": "Gym Class Heroes feat. Adam Levine",
+      "has_synced": true,
+      "path": "select/03_Stereo_Hearts_(feat._Adam_Levine)_Gym_Class_Heroes_feat._Adam_Levine.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Stereo Hearts (feat. Adam Levine)",
+      "artist": "Gym Class Heroes",
+      "has_synced": true,
+      "path": "select/04_Stereo_Hearts_(feat._Adam_Levine)_Gym_Class_Heroes.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Stereo Hearts (feat. Adam Levine)",
+      "artist": "Gym Class Heroes/Adam Levine",
+      "has_synced": true,
+      "path": "select/05_Stereo_Hearts_(feat._Adam_Levine)_Gym_Class_Heroes_Adam_Levine.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Stereo Hearts",
+      "artist": "Gym Class Heroes Ft. Adam Levine",
+      "has_synced": true,
+      "path": "select/06_Stereo_Hearts_Gym_Class_Heroes_Ft._Adam_Levine.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Stereo Hearts (feat. Adam Levine)",
+      "artist": "Gym Class Heroes",
+      "has_synced": true,
+      "path": "select/07_Stereo_Hearts_(feat._Adam_Levine)_Gym_Class_Heroes.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Stereo Hearts (feat. Adam Levine)",
+      "artist": "Gym Class Heroes",
+      "has_synced": true,
+      "path": "select/08_Stereo_Hearts_(feat._Adam_Levine)_Gym_Class_Heroes.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Stereo Hearts (feat. Adam Levine)",
+      "artist": "Gym Class Heroes",
+      "has_synced": true,
+      "path": "select/09_Stereo_Hearts_(feat._Adam_Levine)_Gym_Class_Heroes.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Stereo Hearts",
+      "artist": "Gym Class Heroes Featuring Adam Levine",
+      "has_synced": true,
+      "path": "select/10_Stereo_Hearts_Gym_Class_Heroes_Featuring_Adam_Levine.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Stereo Hearts",
+      "artist": "Gym Class Heroes featuring Adam Levine",
+      "has_synced": true,
+      "path": "select/11_Stereo_Hearts_Gym_Class_Heroes_featuring_Adam_Levine.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Stereo Hearts",
+      "artist": "Gym Class Heroes feat. Adam Levine",
+      "has_synced": true,
+      "path": "select/12_Stereo_Hearts_Gym_Class_Heroes_feat._Adam_Levine.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Stereo Hearts",
+      "artist": "Gym Class Heroes ft. Adam Levine",
+      "has_synced": true,
+      "path": "select/13_Stereo_Hearts_Gym_Class_Heroes_ft._Adam_Levine.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Stereo Hearts (2011)",
+      "artist": "Gym Class Heroes Ft Adam Levine",
+      "has_synced": true,
+      "path": "select/14_Stereo_Hearts_(2011)_Gym_Class_Heroes_Ft_Adam_Levine.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Stereo Hearts",
+      "artist": "Gym Class Heroes feat. Adam Levine",
+      "has_synced": true,
+      "path": "select/15_Stereo_Hearts_Gym_Class_Heroes_feat._Adam_Levine.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Stereo Hearts",
+      "artist": "Gym Class Heroes",
+      "has_synced": true,
+      "path": "select/16_Stereo_Hearts_Gym_Class_Heroes.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Stereo Hearts (Feat. Adam Levine)",
+      "artist": "Gym Class Heroes",
+      "has_synced": true,
+      "path": "select/17_Stereo_Hearts_(Feat._Adam_Levine)_Gym_Class_Heroes.lrc"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "Stereo Hearts",
+      "artist": "Gym Class Heroes feat. Adam Levine",
+      "has_synced": true,
+      "path": "select/18_Stereo_Hearts_Gym_Class_Heroes_feat._Adam_Levine.lrc"
+    },
+    {
+      "id": "lrclib_19",
+      "source": "lrclib",
+      "title": "Stereo Hearts",
+      "artist": "Gym Class Heroes (ft. Adam Levine)",
+      "has_synced": true,
+      "path": "select/19_Stereo_Hearts_Gym_Class_Heroes_(ft._Adam_Levine).lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Stereo Hearts",
+      "artist": "Gym Class Heroes",
+      "has_synced": false,
+      "path": "select/pl_01_Stereo_Hearts_Gym_Class_Heroes.txt"
+    }
+  ]
+}
