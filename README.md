@@ -1,0 +1,70 @@
+# Gym Class Heroes – Stereo Hearts
+
+> **歌詞登録ステータス：プレーン歌詞のみ**
+
+```
+My heart's a stereo
+It beats for you, so listen close
+Hear my thoughts in every note, whoa-oh
+Make me your radio
+Turn me up when you feel low
+This melody was meant for you
+Just sing along to my stereo
+If I was just another dusty record on the shelf
+Would you blow me off and play me like everybody else?
+If I asked you to scratch my back, could you handle that?
+The truth is, the truth, I can handle that
+Furthermore, I apologize for any skipping tracks
+'Cause the last girl that left me left a couple cracks
+I used to, used to, used to, used to, now I'm over that
+'Cause holding grudges over love is ancient artifacts
+If I could only find a note to make you understand
+I'd sing it softly in your ear and grab you by the hand
+I keep it stuck inside your head, like your favorite tune
+And know my heart's a stereo that only plays for you, yeah
+My heart's a stereo
+It beats for you, so listen close
+Hear my thoughts in every note, whoa-oh
+Make me your radio
+Turn me up when you feel low
+This melody was meant for you
+Just sing along to my stereo
+Oh, oh-oh, oh, oh, oh-oh, oh (to my stereo) "Come on"
+Oh, oh-oh, oh, just sing along to my stereo (let's go)
+If I was an old-school, fifty pound boom box
+Would you hold me on your shoulder, wherever you walk?
+And would you turn my volume up in front of the cops?
+And turn it higher every time they told you to stop?
+And all I ask is that you don't get mad at me
+When you have to purchase mad D batteries
+Appreciate every mix tape your friends make
+You never know what's come and go, like on the interstate
+If I could only find a note to make you understand
+I'd sing it softly in your ear and grab you by the hand
+Keep it stuck inside your head, like your favorite tune
+My heart's a stereo that only plays for you, yeah
+My heart's a stereo
+It beats for you, so listen close
+Hear my thoughts in every note, whoa-oh
+Make me your radio
+Turn me up when you feel low
+This melody was meant for you
+Just sing along to my stereo
+Oh, oh-oh, oh, oh, oh-oh, oh (to my stereo)
+Oh, oh-oh, oh, just sing along to my stereo
+I only pray you'll never leave me behind
+'Cause good music can be so hard to find
+I take your hand and pull it closer to mine
+Thought love was dead, now you're changing my mind
+My heart's a stereo
+It beats for you, so listen close
+Hear my thoughts in every note, whoa-oh, yeah
+Make me your radio
+Turn me up when you feel low
+This melody was meant for you
+Just sing along to my stereo
+Oh, oh-oh, oh, oh, oh-oh, oh (to my stereo)
+Oh, oh-oh, oh, just sing along to my stereo
+Oh, oh-oh, oh, oh, oh-oh, oh (to my stereo) "Come on!"
+Oh, oh-oh, oh, just sing along to my stereo
+```
